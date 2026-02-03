@@ -1,0 +1,22 @@
+{
+  "name": "scrollverse-expansion-hub",
+  "version": "1.0.0",
+  "description": "ScrollVerse Expansion Hub: The execution center for a sovereign omniversal economy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests will be added\" && exit 0",
+    "lint": "echo \"Linting will be added\" && exit 0"
+  },
+  "keywords": [
+    "scrollverse",
+    "nft",
+    "defi",
+    "crypto",
+    "blockchain",
+    "digital-bank"
+  ],
+  "author": "ScrollVerse Omnitech",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
